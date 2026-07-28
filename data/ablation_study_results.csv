@@ -1,0 +1,10 @@
+configuration,n_features,macro_f1,accuracy
+Full feature set,15,0.4935463555647326,0.764
+All except demographics,9,0.47983385812420265,0.636
+All except access,13,0.5059696433098511,0.76
+All except behaviour,10,0.41479857050032487,0.68
+All except resilience,13,0.48943094759117733,0.728
+demographics only,6,0.3508603240464439,0.604
+access only,2,0.1860499528819869,0.208
+behaviour only,5,0.38882037592967256,0.484
+resilience only,2,0.3053130406903879,0.456
