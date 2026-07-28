@@ -1,0 +1,5 @@
+subgroup_type,subgroup,accuracy
+gender,Male,0.6888888888888889
+gender,Female,0.8521739130434782
+rural,Urban,0.75177304964539
+rural,Rural,0.7798165137614679
